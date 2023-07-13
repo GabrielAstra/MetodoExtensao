@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Generic/bin/Debug/net7.0/Generic
+/home/gabriel/Desktop/VSProjects/Generic/bin/Debug/net7.0/Generic.deps.json
+/home/gabriel/Desktop/VSProjects/Generic/bin/Debug/net7.0/Generic.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Generic/bin/Debug/net7.0/Generic.dll
+/home/gabriel/Desktop/VSProjects/Generic/bin/Debug/net7.0/Generic.pdb
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.dll
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/refint/Generic.dll
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.pdb
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/Generic.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Generic/obj/Debug/net7.0/ref/Generic.dll
